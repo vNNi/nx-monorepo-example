@@ -1,0 +1,11 @@
+{
+  "name": "@example/core-utils",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo XABLAU UTIL"
+  },
+  "dependencies": {}
+}
